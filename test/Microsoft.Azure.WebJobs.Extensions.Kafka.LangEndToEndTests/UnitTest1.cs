@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Microsoft.Azure.WebJobsExtensions.Kafka.LanguageE2ETests
+namespace Microsoft.Azure.WebJobs.Extensions.Kafka.LangEndToEndTests
 {
     public class UnitTest1
     {
